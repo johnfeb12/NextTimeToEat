@@ -1,0 +1,54 @@
+.MarginTop {
+    margin-top: 10px;
+    display: block;
+}
+
+.MarginTop label {
+    width: 300px;
+    display: block;
+}
+
+.ParentContainer {
+    display: inline-flex;
+}
+
+.Container1 {
+    display: block;
+    padding: 15px;
+    height: 150px;
+    width: 300px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 10px;
+}
+
+.Container2 {
+    display: block;
+    padding: 15px;
+    height: 150px;
+    width: 300px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 10px;
+
+}
+
+.StartTime {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+.Calculate {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    width: 100px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
